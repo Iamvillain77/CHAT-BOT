@@ -1,5 +1,5 @@
 # Don't remove This Line From Here.
-# Telegram :- @ll_ALPHA_BABY_lll
+# Telegram :- @iamakki001
 
 import asyncio
 import random
@@ -33,7 +33,8 @@ async def start(_, m: Message):
         await asyncio.sleep(1.3)
         await accha.edit("__ʜᴇʟʟᴏ ʙᴀʙʏ..__")
         await asyncio.sleep(0.2)
-        await accha.edit("__ɪ'ᴍ sᴏɴᴀʟɪ..__")
+        await accha.edit("__ɪ'ᴀᴍ ꜱʜɪᴢᴜᴋᴀ
+        ..__")
         await asyncio.sleep(0.2)
         await accha.edit("__sᴛᴀʀᴛɪɴɢ..__")
         await asyncio.sleep(0.2)

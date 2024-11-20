@@ -6,16 +6,17 @@ load_dotenv()
 
 API_ID = int(getenv("API_ID", "21803165"))
 API_HASH = getenv("API_HASH", "05e5e695feb30e25bef47484cc006da7")
-BOT_TOKEN = getenv("BOT_TOKEN", 8171600424:AAHo8qxHXtQjIVqLIX8r4pORkKHycBtQmsc)
+BOT_TOKEN = getenv("BOT_TOKEN", "8171600424:AAHo8qxHXtQjIVqLIX8r4pORkKHycBtQmsc")
 OWNER_ID = int(getenv("OWNER_ID", "5909658683"))
-MONGO_URL = getenv("MONGO_URL", mongodb+srv://<villainmusic59>:<deathnote0p>@cluster0.t4v58.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0)
+MONGO_URL = getenv("MONGO_URL", "mongodb+srv://TEAMBABY01:UTTAMRATHORE09@cluster0.vmjl9.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 SUPPORT_GRP = getenv("SUPPORT_GRP", "oldskoolgc")
 UPDATE_CHNL = getenv("UPDATE_CHNL", "iamvillain77")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "iamakki001")
 
 # Random Start Images
 IMG = [
-    "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
+    "https://telegra.ph/fi
+    le/00eb565274ccbffcf149d.jpg",
     "https://telegra.ph/file/396e2af77c4664164de18.jpg",
     "https://telegra.ph/file/6f92a0e943d68a15169c0.jpg",
     "https://telegra.ph/file/d49fbf4c00f839641afe3.jpg",

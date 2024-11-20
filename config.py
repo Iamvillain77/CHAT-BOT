@@ -15,8 +15,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "iamakki001")
 
 # Random Start Images
 IMG = [
-    "https://telegra.ph/fi
-    le/00eb565274ccbffcf149d.jpg",
+    "https://telegra.ph/file/00eb565274ccbffcf149d.jpg",
     "https://telegra.ph/file/396e2af77c4664164de18.jpg",
     "https://telegra.ph/file/6f92a0e943d68a15169c0.jpg",
     "https://telegra.ph/file/d49fbf4c00f839641afe3.jpg",
